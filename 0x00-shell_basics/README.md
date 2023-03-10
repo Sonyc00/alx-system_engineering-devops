@@ -5,4 +5,6 @@
 4-listmorefiles: Script to display current directory contents including hidden files, in long form
 5-listfilesdigitonly: script to display current directory files with numerical user and group ID, in long form, with hidden files
 6-firstdirectory: Script to create directory /my_first_directory in directory /tmp
+7-movethatfile: Script to move betty from /tmp to /tmp/my_first_directory
+8-firstdelete: Script to delete betty from /tmp/my_first_directory
 
