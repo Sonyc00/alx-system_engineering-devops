@@ -3,4 +3,5 @@
 2-bring_me_home: Script that changes working directory to home directory
 3-listfiles: Script to display current directory contents in long format
 4-listmorefiles: Script to display current directory contents including hidden files, in long form
+5-listfilesdigitonly: script to display current directory files with numerical user and group ID, in long form, with hidden files
 
