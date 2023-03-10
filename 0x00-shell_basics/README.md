@@ -14,5 +14,6 @@
 13-symbolic_link: Script to create symbolic link to /bin/ls named _ls_
 14-copy_html: Script that copies html from current working directory to parent of working directory
 100-lets_move: Script that moves all files beginning with an uppercase letter to /tmp/u
+101-clean_emacs: Script that deletes all files ending with ~
 
 
