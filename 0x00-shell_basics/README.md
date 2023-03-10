@@ -12,4 +12,6 @@
 11-lists: Script to list all files in currenct directory, parent directory, and /boot in long format
 12-file_type: script to print type of file iamafile in /tmp directory
 13-symbolic_link: Script to create symbolic link to /bin/ls named _ls_
+14-copy_html: Script that copies html from current working directory to parent of working directory
+
 
