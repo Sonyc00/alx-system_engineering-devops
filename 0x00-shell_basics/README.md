@@ -10,4 +10,5 @@
 9-firstdirdeletion: Script to delete directory my_first_directory from tmp directory
 10-back: Script to change working directory to previous one
 11-lists: Script to list all files in currenct directory, parent directory, and /boot in long format
+12-file_type: script to print type of file iamafile in /tmp directory
 
